@@ -6,7 +6,7 @@ const App = () => {
         <View style={styles.container}>
             <View style={styles.header}>
                 <Text style={styles.title}>
-                    Anota.ai
+                    Anota.ai - Teste
                 </Text>
             </View>
 
